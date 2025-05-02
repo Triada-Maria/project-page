@@ -1,1 +1,1 @@
-<h1>This is the abot us page</h1>
+<h1>This is the about us page</h1>
