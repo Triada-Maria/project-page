@@ -1,6 +1,6 @@
 <script>
     import 'bootstrap/dist/css/bootstrap.min.css';
-  </script>
+</script>
 
 <nav class="navbar bg-dark fixed-top">
     <div class="container">
