@@ -11,3 +11,29 @@
 <div style="text-align: center; margin-top: 50px;">
     <p style="color: darkblue; font-size: 45px; font-weight: bold; font-family:'K2D', sans-serif;">Our Projects</p>
 </div>
+
+<div class="container">
+    <div class="row">
+        <div class="col project-display">
+            project 1
+        </div>
+        <div class="col project-display">
+            project 2
+        </div>
+    </div>
+    <div class="row">
+        <div class="col project-display">
+            project 3
+        </div>
+        <div class="col project-display">
+            project 4
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .project-display {
+        font-family: 'Inter', sans-serif;
+    }
+</style>
